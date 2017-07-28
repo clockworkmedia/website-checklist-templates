@@ -2,15 +2,19 @@
 
 ### Best practices
 
-[ ] -  Fix broken links
-[ ] -  Spelling and grammar
-[ ] -  Check website in all browsers
-[ ] -  Decide on www-subdomain
+[ ] Fix broken links
+
+[ ] Spelling and grammar
+
+[ ] Check website in all browsers
+
+[ ] Decide on www-subdomain
 
 ### Mobile
 
-[ ] -  Mobile-Friendly Test
-[ ] -  Use 'viewport' meta-tag
+[ ] Mobile-Friendly Test
+
+[ ] Use 'viewport' meta-tag
 
 ### Analytics
 
