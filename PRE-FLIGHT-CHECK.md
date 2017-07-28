@@ -2,77 +2,77 @@
 
 ### Best practices
 
-- [ ] I have fixed all broken links
+- [ ] I have checked for any broken links
     - [ ] [I ran the website through the W3C link checker](http://validator.w3.org/checklink)
-- [ ] Spelling and grammar
-- [ ] Check website in all browsers
-- [ ] Decide on www-subdomain
+- [ ] I have checked for spelling and grammar
+- [ ] I have tested the website in all browsers
+- [ ] I have decided on a www-subdomain
 
 ### Mobile
 
-- [ ] Mobile-Friendly Test
-- [ ] Use 'viewport' meta-tag
-- [ ] Use correct input types
-- [ ] Manual check using emulators
-- [ ] Test using real devices
+- [ ] I have gone through a thourough mobile-friendly test
+- [ ] I have used used a 'viewport' meta-tag
+- [ ] I have used correct input types for my forms
+- [ ] I did a manual check using emulators
+- [ ] I did a test using real devices
 
 ### Analytics
-- [ ] Uptime monitoring
-- [ ] Traffic analysis
+- [ ] I do uptime monitoring
+- [ ] I do traffic analysis
 
 ### Performance
-- [ ] Google Page Speed score of 90+
-- [ ] Optimize HTTP headers
-- [ ] Optimize images
+- [ ] My Google Page Speed score is 90+
+- [ ] I optimized my HTTP headers
+- [ ] I optimized my images
 
 ### Usability
-- [ ] HTML5 compatibility check
-- [ ] Custom 404 page
-- [ ] Favicon
-- [ ] Use friendly URLs
-- [ ] Print-friendly CSS
-- [ ] Add search feature
-- [ ] Environment Integration
+- [ ] I did an HTML5 compatibility check
+- [ ] I created a custom 404 page
+- [ ] I added a favicon
+- [ ] I used friendly URLs
+- [ ] I wrote print-friendly CSS
+- [ ] I added search feature
+- [ ] I did environment integration
 
 ### Semantics
-- [ ] Add meaning with structured data
-- [ ] Check the semantics
+- [ ] I have added meaning with structured data
+- [ ] I have checked the semantics
 
 ### SEO
-- [ ] SenSEO score of 85+
-- [ ] Google Rich Snippets
-- [ ] robots.txt
-- [ ] XML sitemap
+- [ ] I have a SenSEO score of 85+
+- [ ] I used google rich snippets
+- [ ] I added a robots.txt file
+- [ ] I added an XML sitemap
 
 ### Code quality
-- [ ] HTML validation
-- [ ] CSS validation
-- [ ] Run CSS Lint
-- [ ] Run JSLint/JSHint
-- [ ] World ready
-- [ ] Automated testing
+- [ ] I did HTML validation
+- [ ] I did CSS validation
+- [ ] I ran a CSS Lint
+- [ ] I ran a JSLint/JSHint
+- [ ] The site is world ready
+- [ ] I implemented automated testing
 
 ### Accessibility
-- [ ] Accessibility validation
-- [ ] Color contrast
-- [ ] WAI-ARIA Landmarks
+- [ ] I did accessibility validation
+- [ ] I did color contrast checks
+- [ ] I implemented WAI-ARIA Landmarks
 
 ### Security
-- [ ] Follow best practices
-- [ ] Cross-site scripting
-- [ ] Cross-site request forgery
-- [ ] Secure connection (SSL)
-- [ ] HTTP Strict Transport Security
-- [ ] Enable Content Security Policy
+- [ ] I followed best practices
+- [ ] I checked for cross-site scripting
+- [ ] I checked for cross-site request forgery
+- [ ] I implemented a secure connection (SSL)
+- [ ] I implemented a HTTP Strict Transport Security
+- [ ] I enabled a content security policy
 
 ### Social Media
-- [ ] Open Graph protoco
-- [ ] Twitter Cards
-- [ ] Facebook Insights
-- [ ] Google+
+- [ ] I implemented the open graph protocol
+- [ ] I enabled twitter cards
+- [ ] I implemented facebook insights
+- [ ] I registered a Google+ account
 
 ### Extra
-- [ ] Add humans.txt 
+- [ ] I added a humans.txt file
 
 ---
 
