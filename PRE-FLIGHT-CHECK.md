@@ -2,8 +2,8 @@
 
 ### Best practices
 
-- [ ] Fix broken links
-    - [ ] [W3C link checker](http://validator.w3.org/checklink)
+- [ ] I have fixed all broken links
+    - [ ] [I ran the website through the W3C link checker](http://validator.w3.org/checklink)
 - [ ] Spelling and grammar
 - [ ] Check website in all browsers
 - [ ] Decide on www-subdomain
